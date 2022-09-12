@@ -1,7 +1,6 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 dir="auto"><a id="" class="anchor" aria-hidden="true" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73669701/181575700-28664e46-ced0-4258-970b-e4f5322dd100.png"><img src="https://user-images.githubusercontent.com/102004076/189752319-6f99b5b1-f931-4c45-9cdf-fb43476b0b7b.png" alt="banner" style="max-width: 100%;"></a></h1>
-
+ <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 dir="auto"><a id="" class="anchor" aria-hidden="true" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73669701/181575700-28664e46-ced0-4258-970b-e4f5322dd100.png"><img src="https://user-images.githubusercontent.com/73669701/181575700-28664e46-ced0-4258-970b-e4f5322dd100.png" alt="banner" style="max-width: 100%;"></a></h1>
 <p dir="auto">Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React, Node.js, Express, and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and take a role in software architecture to create great applications. Team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.</p>
-<p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> I am part of the best community ever: <g-emoji class="g-emoji" alias="green_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49a.png">💚</g-emoji><strong>Platzi Master</strong>.</p>
 <h2 dir="auto"><a id="user-content-my-projects" class="anchor" aria-hidden="true" href="#my-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>My projects</h2>
 <p dir="auto"><em>I love to make projects to increase my technical skills and keep learning about new technologies. Here are some of my best projects.</em></p>
 <ul dir="auto">
@@ -11,7 +10,6 @@
 <li><a href="https://github.com/AreYouIvan/react-store">E-commerce platform building in Next.js</a></li>
 <li><a href="https://github.com/AreYouIvan/react-introduction">Todo-list an application to increase your productivity building in React</a></li>
 </ul>
-  
 <h2 dir="auto"><a id="user-content--my-stack-technologies" class="anchor" aria-hidden="true" href="#-my-stack-technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙</g-emoji> My stack technologies</h2>
 <table>
 <thead>
@@ -29,7 +27,6 @@
 </tr>
 </tbody>
 </table>
-
 <table>
 <thead>
 <tr>
@@ -44,3 +41,14 @@
 </tr>
 </tbody>
 </table>
+<h2 dir="auto"><a id="user-content-my-statistics" class="anchor" aria-hidden="true" href="#my-statistics"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>My statistics</h2>
+<table>
+<thead>
+<tr>
+<th><a href="https://github.com/areyouivan/github-readme-stats"><img src="https://camo.githubusercontent.com/31e79d2d6126dce384cf25a167eda830cca08de5e9a61b24dd08162744645beb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d617265796f756976616e2673686f775f69636f6e733d74727565267468656d653d636974795f6c6967687473" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=areyouivan&amp;show_icons=true&amp;theme=city_lights" style="max-width: 100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/75625aeba4e144e64a44ba0960ac76a474f5575318029ebee2e56fdf0ccaa2a2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617265796f756976616e2673686f775f69636f6e733d74727565267468656d653d636974795f6c6967687473"><img src="https://camo.githubusercontent.com/75625aeba4e144e64a44ba0960ac76a474f5575318029ebee2e56fdf0ccaa2a2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617265796f756976616e2673686f775f69636f6e733d74727565267468656d653d636974795f6c6967687473" alt="Ivan's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=areyouivan&amp;show_icons=true&amp;theme=city_lights" style="max-width: 100%;"></a></th>
+</tr>
+</thead>
+</table>
+
+</article>
