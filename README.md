@@ -1,7 +1,4 @@
 
-<style>
-.container-fluid-lamp {width: 200px;height: 270px;background: #fec02a;overflow: hidden;}.lamp-item {left: 0;right: 0;margin: 0 auto;}.lamp-top {background: #2d2d2d;height: 100px;width: 10px;top: 0;}.lamp-middle {background: #2d2d2d;border-radius: 50px 50px 0 0;height: 30px;width: 50px;top: 100px;}.lamp-bottom {background: #2d2d2d;border-radius: 100px 100px 0 0;cursor: pointer;height: 50px;width: 140px;top: 120px;content: "Hola mundo";}.lamp-light.open {background: #fff;clip-path: polygon(40% 0, 60% 0, 80% 100%, 20% 100%);height: 200px;width: auto;top: 200px;padding-top: 5em;font-size: 12px;text-align: center;background-repeat: no-repeat;word-wrap: break-word;}.lamp-light.open::before {content: "Hello Word";} 
-</style>
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
  <h1 dir="auto">
  <a id="" class="anchor" aria-hidden="true" href="#">
@@ -91,16 +88,7 @@
 <th><a href=""><img src="https://user-images.githubusercontent.com/102004076/191618750-8a736561-3e34-4592-bf5a-649f49f7045a.svg" alt="Top Langs" data-canonical-src="https://user-images.githubusercontent.com/102004076/191618750-8a736561-3e34-4592-bf5a-649f49f7045a.svg" style="max-width: 100%;"></a></th>
 <th><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/102004076/191618929-ef94928e-781e-44aa-b23a-0379a4cd0a70.svg"><img src="https://user-images.githubusercontent.com/102004076/191618929-ef94928e-781e-44aa-b23a-0379a4cd0a70.svg" alt="Manuel's GitHub stats" data-canonical-src="https://user-images.githubusercontent.com/102004076/191618929-ef94928e-781e-44aa-b23a-0379a4cd0a70.svg" style="max-width: 100%;"></a></th>
 </tr>
- <th style="height: 10em;">
-  <div class="container-fluid-lamp">
-    <div class="lamp js-turnoff-btn">
-     <div class="lamp-item lamp-top"></div>
-      <div class="lamp-item lamp-middle"></div>
-      <div class="lamp-item lamp-bottom"></div>
-      <div class="lamp-item lamp-light open"></div>
-     </div>
-   </div>
- </th>
+
 </thead>
 </table>
 </article>
