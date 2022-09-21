@@ -1,4 +1,3 @@
-
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
  <h1 dir="auto">
  <a id="" class="anchor" aria-hidden="true" href="#">
