@@ -56,4 +56,29 @@
 </tr>
 </tbody>
 </table>
+ <table>
+<thead>
+<tr>
+<th>RDBMS</th>
+<th>Dev Tools</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/102004076/191615409-a65b4fbd-64fb-42d0-bf80-1ca314e98933.svg"><img src="https://user-images.githubusercontent.com/102004076/191615409-a65b4fbd-64fb-42d0-bf80-1ca314e98933.svg" data-canonical-src="https://user-images.githubusercontent.com/102004076/191615409-a65b4fbd-64fb-42d0-bf80-1ca314e98933.svg" style="max-width: 100%;"></a>
+ 
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/102004076/191615664-3806ba37-f990-4386-8955-f030d1958f42.svg"><img src="https://user-images.githubusercontent.com/102004076/191615664-3806ba37-f990-4386-8955-f030d1958f42.svg" alt="MySQL" data-canonical-src="https://user-images.githubusercontent.com/102004076/191615664-3806ba37-f990-4386-8955-f030d1958f42.svg" style="max-width: 100%;"></a>
+ 
+ </td>
+<td>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/102004076/191615916-e98d49cc-1c9a-4180-9ce1-ca569857bacb.svg"><img src="https://user-images.githubusercontent.com/102004076/191615916-e98d49cc-1c9a-4180-9ce1-ca569857bacb.svg" data-canonical-src="https://user-images.githubusercontent.com/102004076/191615916-e98d49cc-1c9a-4180-9ce1-ca569857bacb.svg" style="max-width: 100%;"></a>
+ 
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/102004076/191616139-4025435c-f3c4-4654-a104-3f0ba26adea7.svg"><img src="https://user-images.githubusercontent.com/102004076/191616139-4025435c-f3c4-4654-a104-3f0ba26adea7.svg" alt="Visual Studio Code" data-canonical-src="https://user-images.githubusercontent.com/102004076/191616139-4025435c-f3c4-4654-a104-3f0ba26adea7.svg" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/102004076/191616455-fcae27e5-dcfc-49ec-9693-1f52f22fe248.svg"><img src="https://user-images.githubusercontent.com/102004076/191616455-fcae27e5-dcfc-49ec-9693-1f52f22fe248.svg" alt="Linux" data-canonical-src="https://user-images.githubusercontent.com/102004076/191616455-fcae27e5-dcfc-49ec-9693-1f52f22fe248.svg" style="max-width: 100%;"></a>
+ 
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/93ae318132d035a8c007ee1cb244f63a02d87cc0051dfa67323f5bfdc6b222d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d353834394245"><img src="https://camo.githubusercontent.com/93ae318132d035a8c007ee1cb244f63a02d87cc0051dfa67323f5bfdc6b222d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d353834394245" alt="Insomnia" data-canonical-src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&amp;logo=insomnia&amp;logoColor=5849BE" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63350538fde994bc287ccd4908809301e157980e6564bf78d2c5cec22c0a5914/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/63350538fde994bc287ccd4908809301e157980e6564bf78d2c5cec22c0a5914/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
 </article>
