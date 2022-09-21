@@ -80,4 +80,13 @@
 </tr>
 </tbody>
 </table>
+ <h2 dir="auto"><a id="user-content-my-statistics" class="anchor" aria-hidden="true" href="#my-statistics"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://user-images.githubusercontent.com/102004076/191618329-e5cd3036-e366-4a07-86f8-05911cf4d89b.png">📈</g-emoji>My statistics</h2>
+ <table>
+<thead>
+<tr>
+<th><a href=""><img src="https://user-images.githubusercontent.com/102004076/191618750-8a736561-3e34-4592-bf5a-649f49f7045a.svg" alt="Top Langs" data-canonical-src="https://user-images.githubusercontent.com/102004076/191618750-8a736561-3e34-4592-bf5a-649f49f7045a.svg" style="max-width: 100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/102004076/191618929-ef94928e-781e-44aa-b23a-0379a4cd0a70.svg"><img src="https://user-images.githubusercontent.com/102004076/191618929-ef94928e-781e-44aa-b23a-0379a4cd0a70.svg" alt="Manuel's GitHub stats" data-canonical-src="https://user-images.githubusercontent.com/102004076/191618929-ef94928e-781e-44aa-b23a-0379a4cd0a70.svg" style="max-width: 100%;"></a></th>
+</tr>
+</thead>
+</table>
 </article>
